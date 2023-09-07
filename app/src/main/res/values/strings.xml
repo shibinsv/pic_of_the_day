@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pic of the day</string>
+    <string name="date_posted">Date Posted: %1s</string>
+    <string name="image">image</string>
+    <string name="play">play</string>
+    <string name="image_of_the_day">%1s of the Day</string>
+    <string name="refresh_success">Data refresh is successful</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="no_data_found">Unable to fetch data</string>
+</resources>
